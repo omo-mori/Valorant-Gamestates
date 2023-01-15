@@ -23,6 +23,8 @@ What are the *gamestates*, or *phases*, of every game of Valorant? What strategi
  - **Flank**: Be positionally behind an enemy.
 	
 - **Bait**: Tempt an enemy towards a particular action.
+
+- **Rotate**: Move to a site other than the one you were on.
 	
 
 # Attackers
@@ -42,7 +44,7 @@ What are the *gamestates*, or *phases*, of every game of Valorant? What strategi
 
 - Take control of the area between you and the site
 
-- Cover wherever you think enemies may peak you from
+- Cover (with crosshair) wherever you think enemies may peak you from
 	
 	
 ### 3. Entry
@@ -67,7 +69,7 @@ What are the *gamestates*, or *phases*, of every game of Valorant? What strategi
 
 - After spike is planted
 	
-- Cover site entry point
+- Position to cover an entry point with crosshair
 	
 - Do so quickly
 	
@@ -80,9 +82,9 @@ What are the *gamestates*, or *phases*, of every game of Valorant? What strategi
 	
 - Enemies may or may not continue defusing
 	
-- Likely will have to [[Entry]] again
+- Likely will have to Entry again
 	
-- Can fake [[Entry]] with utilities to stall - though it is risky
+- Can fake Entry with utilities to stall - though it is risky
 
 
 # Defenders
@@ -117,7 +119,7 @@ What are the *gamestates*, or *phases*, of every game of Valorant? What strategi
 
 - Starts when you know where enemies are/are planning to push
 	
-- Either rotate, or fall back on site to cover entry point
+- Either rotate, or fall back on site and cover entry point
 	
 - Can flank to cheese a kill - though it is risky, you will need to fall back and rotate after
 	
