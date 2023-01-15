@@ -8,134 +8,134 @@ last-modified: 01-15-2023t12:21:57
 ___
 What are the *gamestates*, or *phases*, of every game of Valorant? What strategies are to be implemented during them?
 
-**Vocabulary**
+## Vocabulary
 
-	**Entry Point**: Location on the map that connects to the site. Location that will have to be entered in order to get on site.
+ - **Entry Point**: Location on the map that connects to the site. Location that will have to be entered in order to get on site.
 	
-	**Utilities**: Character abilities that provide some kind of advantage (ie, a smoke that blocks an enemies line of sight).
+ - **Utilities**: Character abilities that provide some kind of advantage (ie, a smoke that blocks an enemies line of sight).
 	
-	**Intel**: Information, likely about where an enemy is/may be.
+ - **Intel**: Information, likely about where an enemy is/may be.
 	
-	**Entry**: The process of getting onto a site.
+ - **Entry**: The process of getting onto a site.
 	
-	**Peak**: Turn a corner to gain line of sight on an otherwise unseeable area.
+ - **Peak**: Turn a corner to gain line of sight on an otherwise unseeable area.
 	
-	**Flank**: Be positionally behind an enemy.
+ - **Flank**: Be positionally behind an enemy.
 	
-	**Bait**: Tempt an enemy towards a particular action.
+- **Bait**: Tempt an enemy towards a particular action.
 	
 
-### Attackers
+# Attackers
 
-**1. [[Buy Phase]]**
+### 1. Buy Phase
 
-	Buy weapons/armor
+- Buy weapons/armor
 	
-	Figure out starting strat
+- Figure out starting strat
 	
-	Adapt your position during other phases in accordance to what you bought
+- Adapt your position during other phases in accordance to what you bought
 	
 	
-**2. [[Pre-Entry]]**
+### 2. Pre-Entry
 
-	Phase before you enter site
-	
-	Take control of the area between you and the site
-	
-	Cover wherever you think enemies may peak you from
-	
-	
-**3. [[Entry]]**
+- Phase before you enter site
 
-	When you enter the site
-	
-	Cover most likely enemy positions with smoke and/or crosshair
-	
-	Gather intel on enemy locations
-	
-	
-**4. [[Plant]]**
+- Take control of the area between you and the site
 
-	Plant the spike
-	
-	Cover most likely enemy positions, as they will try to peak
-	
-	Short duration
+- Cover wherever you think enemies may peak you from
 	
 	
-**5. [[Post-plant]]**
+### 3. Entry
 
-	After spike is planted
+- When you enter the site
 	
-	Cover site entry point
+- Cover most likely enemy positions with smoke and/or crosshair
 	
-	Do so quickly
+- Gather intel on enemy locations
 	
 	
-**6. [[Interrupt Defuse]]**
+### 4. Plant
 
-	When enemies end up on site and start defusing
+- Plant the spike
 	
-	You will hear the defuse start
+- Cover most likely enemy positions, as they will try to peak
 	
-	Enemies may or may not continue defusing
+- Short duration
 	
-	Likely will have to [[Entry]] again
 	
-	Can fake [[Entry]] with utilities to stall - though it is risky
+### 5. Post-plant
+
+- After spike is planted
+	
+- Cover site entry point
+	
+- Do so quickly
+	
+	
+### 6. Interrupt Defuse
+
+- When enemies end up on site and start defusing
+	
+- You will hear the defuse start
+	
+- Enemies may or may not continue defusing
+	
+- Likely will have to [[Entry]] again
+	
+- Can fake [[Entry]] with utilities to stall - though it is risky
 
 
-### Defenders
+# Defenders
 
-**1. [[Buy Phase]]**
+### 1. Buy Phase
 
-	Buy weapons/armor
+- Buy weapons/armor
 	
-	Figure out starting strat
+- Figure out starting strat
 	
-	Adapt your position during other phases in accordance to what you bought
+- Adapt your position during other phases in accordance to what you bought
 	
 	
-**2. [[Positional Set-up]]**
+### 2. Positional Set-up
 
-	Find position/entry point to cover and set-up for the intel phase
+- Find position/entry point to cover and set-up for the intel phase
 	
 	
-**3. [[Intel Phase]]**
-	Phase after walls drop/buy phase is over
+### 3. Intel Phase
+- Phase after walls drop/buy phase is over
 	
-	Seek to gather information and cover an entry point
+- Seek to gather information and cover an entry point
 	
-	May opt to peak for info or quick kill
+- May opt to peak for info or quick kill
 	
-	May aggressively move into an entry point position to cheese kills - though you will likely die
+- May aggressively move into an entry point position to cheese kills - though you will likely die
 	
-	Consider positions where you *hear* the enemy coming, rather than seeing them
+- Consider positions where you *hear* the enemy coming, rather than seeing them
 	
 	
-**4. [[Rotational Phase]]**
+### 4. Rotational Phase
 
-	Starts when you know where enemies are/are planning to push
+- Starts when you know where enemies are/are planning to push
 	
-	Either rotate, or fall back on site to cover entry point
+- Either rotate, or fall back on site to cover entry point
 	
-	Can flank to cheese a kill - though it is risky, you will need to fall back and rotate after
+- Can flank to cheese a kill - though it is risky, you will need to fall back and rotate after
 	
 	
-**5. [[Entry]]**
+### 5. Entry
 
-	When you enter the site
+- When you enter the site
 	
-	Cover most likely enemy positions with smoke and/or crosshair
+- Cover most likely enemy positions with smoke and/or crosshair
 	
-	Gather intel on enemy locations
+- Gather intel on enemy locations
 	
 	
-**6. [[Defuse]]**
+### 6. Defuse
 
-	Likely will have to [[Entry]]
+- Likely will have to Entry
 	
-	Bait the enemies by starting defuse, cancelling, then covering entry point
+- Bait the enemies by starting defuse, cancelling, then covering entry point
 	
 
 
